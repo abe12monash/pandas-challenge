@@ -1,0 +1,50 @@
+Py City Schools Report  -PyCitySchools_Challenge
+
+Based on Summary information  generated on first calculation the passing rate for  Subject reading is higher than Reading  which further anaylises the resources and time invested both subjects.
+The average scores between the two subjects are close in numbers which is 70 and  69 respectively.
+Additonal funding and resource may increase the propbability of a  higher score for both subjects in discussion.
+
+Explanation School Summary.
+ The summary table by schools identifies budget spending in total and per student based on schools and school categories.
+Additional columns pertaining information of average scores for both subjects and passing precentages provided through detailed analysis.
+
+01. Funding for Goverment schools are  higher than any independent schools which directly attributes to higher number of students  attending goverment schools
+02.The "Bailey High School" has the highest number of students hence the highest allocated budget of  $3,124,928.00
+03.The overall passing rate for both subjects are approximately between  80% to  82% with  following high schools ( Bailey ,Carbrera and  Griffin) which indiirectly applies to efficient allocation of funds and resorces.
+04. This table information challenges the norm on whether Higher budget allocation per student facilitates higher passing rates and scores (The prime example on such challenges  are Huang high scool which reported the lowest overall passing rate of 66% with highest Budget amount per student of  $ 655) 
+05.Holden High school has attracted less number of students hence a Total Budget amopunt of $248,087.00	which is less than  50% compared to Other Independent schools ( cabrera , wright and wilson) However Holden high school precentage passing rate remains at higher  sample categories of 88% -92%.
+06.The dataframe has been created based on provided information  which results in limitation of analaysis
+07.The data is not categorised based on time period and "Political , economic " environment conditions has not been included  in above information.
+
+
+Explanation Top Performing schools
+
+01.Griffith , Carbera and Baily High schools reported an average overall passing  precentaghe for both subjects of  80%  to  81%
+02. Although the budget allocation for goverment schools are comparatively higher than Indpedent categories the perfomance of independent schools based on % overall passing is higher
+03.This might be attributes to less students per teacher  hence more time and resources invested.
+
+
+
+Explanation Bottom  Performing schools
+01. The Government sector schools ( Name - Hernandez , Huang  ,Wilson  and Ford) reported less precentages for overall passing which suggests that increased budget allocation does not necessarily facilitate quality education.
+02.Only one Independent school included in poor perfoming list which is Wilson  High school
+03.Again limitation of such data sets might include " Check or references of qualified teaching staff " , availability of  a time period.
+
+Explanation Maths Scores by Year
+01.Bailey,Carbrera , Holden ,Pena, Rodriguez,Shelton and  Wright are Top performing schools for Maths subject
+02 The highest number of scores of  75 was reported by  Holden High school 
+03 The lowest score of 67.990220 was reported by Johnson High School
+
+
+
+
+Explanation Reading  Scores by Year
+01. Year udents of Holden  High school reported a higher value of 73.310680  in comparion to other High schools .
+02  Year 12 students of Bailey high school reported a higher score for reading , and Year 9 students   Griffin high School ( Which is one of the best performing high schools ) reported  the highest score for Maths of 72.026895
+03. Based on average scores across all years Griffin ,Bailey,Carbrera, Holden and  Pena high schools manages to maintain  an average of atleast 70% for reading
+
+
+Other 
+The overall passing of  score forIndependent schools are higher than Govermet schools
+This may be directly linkled to Higher number of students per class /Teacher thereby affecting quality of learning and scarecity of educational resources 
+
